@@ -13,10 +13,9 @@ Bot WhatsApp sederhana menggunakan Baileys.
 
 - `ping` → bot membalas `pong`
 - `halo` → bot menyapa kembali
-- `!say <teks>` → bot mengulangi teks yang dikirimkan
+- `.say <teks>` → bot mengulangi teks yang dikirimkan
 
 ## File penting
-
 - `index.js` - logika utama bot
 - `auth_info.json` - data autentikasi WhatsApp (dibuat otomatis)
 - `baileys_store.json` - penyimpanan sementara sesi chat

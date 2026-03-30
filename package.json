@@ -4,13 +4,22 @@
   "description": "WhatsApp bot using Baileys",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dashboard": "node server.js",
+    "dev": "concurrently \"npm start\" \"npm run dashboard\""
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^7.0.0-rc.9",
     "pino": "^8.20.0",
-    "qrcode-terminal": "^0.12.0"
+    "qrcode-terminal": "^0.12.0",
+    "pdfkit": "^0.15.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
   }
 }

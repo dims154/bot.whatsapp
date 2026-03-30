@@ -1,0 +1,12 @@
+{
+  "botName": "WhatsApp Bot",
+  "botStatus": "Online",
+  "autoReply": true,
+  "autoReplyMessage": "Terima kasih telah menghubungi kami! Kami akan merespon Anda segera.",
+  "welcomeMessage": "Selamat datang di WhatsApp Bot kami!",
+  "adminNumbers": [],
+  "blacklistNumbers": [],
+  "allowedGroups": [],
+  "debugMode": false,
+  "responseDelay": 1000
+}

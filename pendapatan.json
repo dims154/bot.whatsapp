@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2026-03-28",
+    "amount": 12000,
+    "description": "BG 177 A",
+    "jenis": "kecil",
+    "washerId": "72314632859775@lid"
+  },
+  {
+    "date": "2026-03-28",
+    "amount": 12000,
+    "description": "REVO",
+    "jenis": "kecil",
+    "washerId": "72314632859775@lid"
+  },
+  {
+    "date": "2026-03-28",
+    "amount": 20000,
+    "description": "nmax",
+    "jenis": "besar",
+    "washerId": "72314632859775@lid"
+  },
+  {
+    "date": "2026-03-28",
+    "amount": 20000,
+    "description": "nmax",
+    "jenis": "besar",
+    "washerId": "72314632859775@lid"
+  },
+  {
+    "date": "2026-03-28",
+    "amount": 15000,
+    "description": "vario",
+    "jenis": "sedang",
+    "washerId": "72314632859775@lid"
+  },
+  {
+    "date": "2026-03-28",
+    "amount": 15000,
+    "description": "vega",
+    "jenis": "sedang",
+    "washerId": "72314632859775@lid"
+  },
+  {
+    "date": "2026-03-28",
+    "amount": 12000,
+    "description": "vega",
+    "jenis": "kecil",
+    "washerId": "72314632859775@lid"
+  }
+]
